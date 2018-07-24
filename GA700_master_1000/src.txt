@@ -24,17 +24,19 @@ case version 004
 /*  <-- development code                                                                                                 */
 /*===================================================================================================================*/
 
-<<<<<<< HEAD
+
 /* feature modification 002 */
 feature 002 =0000123123
 /* end modification */
-=======
+
+
 /* feature 001 modification */
 if function001 ==001{}
 else{}
 /* end of modification */
 
->>>>>>> feature_001
+common feature added
+
 
 /*===================================================================================================================*/
 /*  hotfix code -->                                                                                                 */
