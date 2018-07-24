@@ -18,6 +18,7 @@ case version 000
 case version 001
 case version 002
 case version 003
+case version 004
 
 /*===================================================================================================================*/
 /*  <-- development code                                                                                                 */
