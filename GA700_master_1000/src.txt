@@ -28,31 +28,6 @@ case version 004
 /* feature modification 002 */
 feature 002 =0000123123
 /* end modification */
-
-
-/* feature 001 modification */
-if function001 ==001{}
-else{}
-/* end of modification */
-
-common feature added
-
-feature003==a new feature has been added here
-
-feature004 == 01209103901239;
-
-feature004 = test for development;
-feature004 = 003294;
-
-feature004 == 01239;
-
-feature004 = 0293403;
-feature004 = 023403294;
-
-feature004 == 01209103901239;
-
-
-
 /*===================================================================================================================*/
 /*  hotfix code -->                                                                                                 */
 /*===================================================================================================================*/
